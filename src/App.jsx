@@ -12,6 +12,7 @@ function App() {
       <div className="w-80">
         <img src="card.png" />
       </div>
+      <div></div>
     </>
   );
 }
